@@ -9,4 +9,4 @@
 <img width="52%" src = "https://user-images.githubusercontent.com/24634054/53308942-1bb62200-38e8-11e9-8632-afccfaa75ca6.PNG">
 </div>
 
-- 다른 프로젝트
+- naver_movie_text_classification : 한국어 영화 리뷰 긍, 부정을 분류하는 text classification
